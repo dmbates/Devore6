@@ -1,0 +1,10 @@
+thickness condition
+4.0 SIDS   
+4.4 SIDS   
+4.8 SIDS   
+4.9 SIDS   
+3.7 Control
+4.1 Control
+4.3 Control
+5.1 Control
+5.6 Control

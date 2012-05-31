@@ -1,0 +1,3 @@
+Group	size	mean	stdError
+Young	13	7.47	0.22
+Elderly.men	12	6.71	0.28

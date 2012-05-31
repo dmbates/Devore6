@@ -1,0 +1,3 @@
+Fabric.Type	Sample.Size	Sample.Mean	Sample.Standard.Deviation
+"Cotton"	10	51.71	.79
+"Triacetate"	10	136.14	3.59

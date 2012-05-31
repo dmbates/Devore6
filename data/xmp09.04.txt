@@ -1,0 +1,3 @@
+Type	Sample.Size	Sample.Average.Conductivity	Sample.Standard.Deviation
+"Graded"	42	.486	.187
+"No-fines"	42	.359	.158

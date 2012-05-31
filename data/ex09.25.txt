@@ -1,0 +1,3 @@
+"Condition"	"Sample size"	"Sample mean"	"Sample SD"
+"No LBP"	28	91.5	5.5
+"LBP"	31	88.3	7.8

@@ -1,0 +1,6 @@
+"Twist multiple"	"Control strength"	"Heated strength"
+1.054	.45	.51
+1.141	.6	.59
+1.245	.61	.63
+1.37	.73	.73
+1.481	.69	.74

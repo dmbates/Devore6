@@ -1,0 +1,39 @@
+ex6-09 Name of first column should be "scratches per item", not "searches"
+
+ex9-90 should be ex9-92.  This exercise was 9-90 in the 5th edition.
+
+ex12-35 is not the correct data.  Those data are from ex12-35 in the 5th
+edition and that problem is not used in the 6th edition.
+
+ex13-18 is the wrong data.  Not sure where it came from.
+
+ex13-50 should be ex13-51
+
+ex13-64 should be ex13-68
+
+ex13-65 should be ex13-69
+
+ex13-66 should be ex13-70
+
+ex13-67 should be ex13-71
+
+ex13-69 should be ex13-73
+
+ex13-71 should be ex13-75
+
+ex13-72 should be ex13-76
+
+No data available for ex13-65
+
+No data available for ex13-66
+
+exp13-13 has the last column labelled "Absorbability (%)".  In the
+text it is "Adsorbability (%)".
+
+
+
+
+
+
+
+

@@ -1,0 +1,6 @@
+"Treatment"	"Matured"	"Aborted"
+"Control"	"141"	"206"
+"Two leaves removed"	"28"	"69"
+"Four leaves removed"	"25"	"73"
+"Six leaves removed"	"24"	"78"
+"Eight leaves removed"	"20"	"82"

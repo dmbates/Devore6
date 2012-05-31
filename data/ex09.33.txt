@@ -1,0 +1,3 @@
+"Treatment"	"Sample size"	"Sample mean"	"Sample standard deviation"
+"Steroid"	8	32.8	2.6
+"Control"	10	40.5	2.5

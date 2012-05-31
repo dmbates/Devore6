@@ -1,0 +1,13 @@
+count Size dist
+ 6 Subcompact "0-<10"
+27 Subcompact "10-<20"
+19 Subcompact ">=20"
+ 8    Compact "0-<10"
+36    Compact "10-<20"
+17    Compact ">=20"
+21    Midsize "0-<10"
+45    Midsize "10-<20"
+33    Midsize ">=20"
+14   Fullsize "0-<10"
+18   Fullsize "10-<20"
+ 6   Fullsize ">=20"

@@ -1,0 +1,3 @@
+"Type of Player"	"Sample size"	"Sample mean"	"Sample standard deviation"
+"Advanced"	6	40.3	11.3
+"Intermediate"	8	21.4	8.3

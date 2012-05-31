@@ -1,0 +1,36 @@
+density sampling
+101.1 pitcher
+111.1 pitcher
+107.6 pitcher
+ 98.1 pitcher
+ 99.5 pitcher
+ 98.7 pitcher
+103.3 pitcher
+108.9 pitcher
+109.1 pitcher
+104.1 pitcher
+110.0 pitcher
+ 98.4 pitcher
+105.1 pitcher
+104.5 pitcher
+105.7 pitcher
+103.3 pitcher
+100.3 pitcher
+102.6 pitcher
+101.7 pitcher
+105.4 pitcher
+ 99.6 pitcher
+103.3 pitcher
+102.1 pitcher
+104.3 pitcher
+107.1 block  
+105.0 block  
+ 98.0 block  
+ 97.9 block  
+103.3 block  
+104.6 block  
+100.1 block  
+ 98.2 block  
+ 97.9 block  
+103.2 block  
+ 96.9 block  

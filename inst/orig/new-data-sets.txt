@@ -1,0 +1,61 @@
+1-13. Allowable mechanical properties for structural design of metallic aerospace vehicles requires an approved method for statistically analyzing empirical test data.  The article "Establishing Mechanical Property Allowables for Metals" (J. of Testing and Evaluation, 1998: 293 - 299) used the accompanying data on tensile ultimate strength (ksi) as a basis for addressing the difficulties in developing such a method.
+
+
+1-27 The paper "Study on the life distribution of Microdrills" (J. of Engr. Manufacture, 2002: 301 - 305) reported the following observations, listed in increasing order, on drill lifetime (number of holes that a drill machines before it breaks) when holes were drilled in a certain brass alloy.
+
+1-50 In 1997 a woman sued a computer keyboard manufacturer , charging that her repetitive stress injuries were caused by the keyboard (Genessy vs. Digital Equipment Corp.) The jury awarded about $3.5 million for pain and suffering, but the court then set aside that award as being unreasonable compensation.  In making this determination, the court identified a "normative " group of 27 similar cases, and specified a reasonable award as one within two standard deviations of the mean of the awards in the 27 cases.  The 27 awards were (in$1000's) 37, 60, ...
+
+1-70 Elevated energy consumption during exercise continues after the workout ends.  Because calories burned after exercise contribute to weight loss and have other consequences, it is important to understand this process.  The paper "Effect of Weight Training Exercise and Treadmill Exercise on Post-Exercise Oxygen Consumption" (Medicine and Science in Sports and Exercise, 1998: 518 - 522) reported the accompanying data from a study in which oxygen consumption (liters) was measured continuously for 30 minutes for each of 15 subjects both after a weight training exercise and after a treadmill exercise.
+
+
+1-72   Anxiety disorders and symptoms can often be effectively treated with benzodiazepine medications.  It is known that animals exposed to stress exhibit a decrease in benzodiazepine receptor binding in the frontoa cortex.  The paper "Decrease Benzodiazepine Binding in Prefrontal Cortex in Combat-Related Posttraumatic Stress Disorder" (American J. of Psychiatry, 200: 1120 - 1126) described the first study of benzodiazepine receptor binding in individuals suffering from PTSD.  The accompanying data on a receptor binding measure (adjusted distribution volume) was read from a graph in the paper.
+
+8-54 
+A random sample of soil specimens was obtained, and the amount of organic matter (%) in the soil was determined for each specimen, resulting in the accompanying data (from "Engineering Properties of Soil", Soil Science, 1998: 93-102.
+
+
+9-28 As the population ages, there is increasing concern about accident-related injuries to the elderly.  The article "Age and Gender Differences in Single-step Recovery from a Forward Fall" (J. of Gerontology ,1999:M44 - M50) reported on an experiment in which the maximum lean angle - the furthest a subject is able to lean and still recover in one step - was determined for both a sample of younger females (21-29 years,) and a sample of older females (67-81 years)  The following observations are consistent with summary data given in the article.
+
+9-44 Example 7-11 gave data on the modulus of elasticity obtained 1 minute after loading in a certain configuration.  The cited article also gave the values of modulus of elasticity obtained 4 weeks after loading for the same lumber specimens.  The data is presented here.
+
+9-82 How does energy intake compare to energy expenditure?  One aspect of this issue was considered in the article "Measurement of Total Energy Expenditure by Doubly Labeled Water Method in Professional Soccer Players" (J. of Sports Sciences, 2002: 391-397) which contained the accompanying data (MJ/day).
+
+12-36 Mist ( airborne droplets or aerosols) is generated when metal removing fluids are used in machining operations to cool and lubricate the tool and workpiece.  Mist generation is a concern of OSHA, which has recently lowered substantially the workplace standard.  The article "Variables Affecting Mist Generation from Metal Removal Fluids" (Lubrication Engr., 2002: 10-17) gave the accompanying data on x = fluid flow velocity for a 5% soluble oil (cm/s) and y = the extent of the mist droplets having diameters smaller than 10 (m (mg/m3).
+
+12-61 The authors of the paper "Objective Effects of a Six Months' Endurance and Strength Training Program in Outpatients with Congestive Heart Failure" (Medicine and Science in Sports and Exercise, 1999: 1102-1107) presented a correlation analysis to investigate the relationship between maximal lactate level x and muscular endurance y.  The accompanying data was read from a plot in the paper.
+
+12-82 In biofiltration of wastewater, air discharges from a treatment facility is passed through a damp porous membrane which causes contaminants to dissolve in water and be transformed into harmless products.  The accompanying data on x -= inlet temperature ((C) and y = removal efficiency (%) was the basis for a scatter plot that appeared in the article "Treatment of Mixed Hydrogen Sulfide and Organic Vapors in a Rock Medium Biofilter" (Water Environment Research, 2001: 426-435).
+
+12-83  Normal hatchery presses in aquaculture inevitably produce stress in fish, which may negatively impact growth, reproduction, flesh quality, and susceptibility to disease.  Such stress manifests itself in elevated and sustained corticosteroid levels.  The article "Evaluation of Simple Instruments for the Measurement of Blood Glucose and Lactate, and Plasma Protein as Stress Indicators in Fish   " (J. of the World Aquaculture Society, 1999: 276-284) described an experiment in which fish were subjected to a stress protocol and then removed and tested at various times after the protocol had been applied.  The accompanying data on x = time (min) and y = blood glucose level (mmol/L) was read from a plot.
+
+12-84  The article "Evaluating the BOD POD for Assessing Body Fat in Collegiate Football Payers" (Medicine and Science in Sports and Exercise, 1999: 1350-1356) reports on a new air displacement device for measuring body fat.  The customary procedure utilizes the hydrostatic weighing device, which measures the percentage of body fat by means of water displacement.  Here is a representative read from a graph in the paper.
+
+
+13-05 As the air temperature drops, river water  becomes supercooled and ice crystals form.  Such ice can significantly affect the hydraulics of a river.  The article "Laboratory Study of Anchor Ice growth" (J. of Cold Regions Engr., 2001: 60-66) described an experiment in which ice thickness (mm) was studied as a function of elapsed time (hr) under specified conditions.  The following data was read from a graph in the article.
+
+13-08 Continuous recording of heart rate can be used to obtain information about the level of exercise intensity or physical strain during sports participation, work or other daily activities.  The article "The Relationship between Heart Rate and Oxygen Uptake During Non-steady stage Exercise" (Ergonomics, 2000: 1578-1592) reported on a study to investigate using heart rate response (x, as a percentage of the maximum rate) to predict oxygen uptake (y, as a percentage of maximum uptake) during exercise. The accompanying data was read from a graph in the paper.
+
+13-18 Failures in aircraft gas turbine engines due to high cycle fatigue is a pervasive problem.  The article "Effect of Crystal Orientation on Fatigue Failure of Single Crystal Nickel Base Turbine Blade Superalloys" (J. of Engineering for Gas Turbines and Power, 2002: 161-176) gave the accompanying data and fit a nonlinear regression model in order to predict strain amplitude from cycles to failure.
+
+13-52 
+Utilization of sucrose as a carbon source for the production of chemicals is uneconomical.  Beet molasses is a readily available and low prices substitute.   The article "Optimization of the Production of (-carotene from Molasses by Blakeslea Trispora" (J. of Chemical Technology and Biotechnology 2002: 933-943) carried out a multiple regression analysis to relate the dependent variable y = amount of (-carotene (g/dm3) to the three predictors amount of lineolic acid, amount of kerosene, and amount of antioxidant (all g/dm3).
+
+
+13-53 Snowpacks contain a wide spectrum of pollutants which may represent environmental hazards.  The article "Atmospheric PAH Deposition: Deposition Velocities and Washout Rations" (J. of Environmental Engineering, 2002: 186-195) focused on the deposition of poly-aromatic hydrocarbons.  The Authors proposed a multiple regression model for relating deposition over a specified time period ( y, in (g/m2) to two rather complicated predictors x1 ((g-sec/m3) and x2 ((g/m2) defined in terms of PAH air concentrations for various species, total time, and total amount of precipitation..  Here is the data on the species fluoranthene .
+
+
+Example 9-10
+Adding computerized medical images to a database promises to provide great resources for physicians.  However, there are other methods of obtaining such information, so the issue of efficiency of access needs to be investigated.  The article "The comparative effectiveness of conventional and digital Image libraries" (J. of Audiovisual Media in Medicine, 2001: 8-15) reported on an experiment in which 15 computer-proficient medical professionals were timed both while retrieving an image from a library of slides and while retrieving the same image from a com0uter database with a Web front end.
+
+
+Example 12-6
+Japan's high population density has resulted in a multitude of resource usage problems.  One especially serious difficulty concerns waste removal.  The article "Innovative Sludge Handling through Pelletization thickening" (Water Research, 1999: 3245-3252) reported the development of a new compression machine for processing sewage sludge.  An important part of the investigation involved relating the moisture content of compressed pellets (y, in %) to the machine's filtration rate (x, in kg-DS/m/h).  The following data  was read from a graph in the paper.
+
+
+
+
+
+
+
+
+

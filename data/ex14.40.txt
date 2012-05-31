@@ -1,0 +1,5 @@
+"Sport"	"Leader Wins"	"Leader Loses"
+"Basketball"	"150"	"39"
+"Baseball"	"86"	"6"
+"Hockey"	"65"	"15"
+"Football"	"72"	"21"

@@ -1,0 +1,3 @@
+"Beverage"	"Sample size"	"Sample mean"	"Sample standard deviation"
+"Strawberry drink"	15	540	21
+"Cola"	15	554	15

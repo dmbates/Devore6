@@ -1,0 +1,3 @@
+"Type"	"Sample size"	"Sample mean"	"Sample standard deviation"
+"Fiberglass grid"	26	33.4	2.2
+"Commercial carbon grid"	26	42.8	4.3
